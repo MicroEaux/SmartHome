@@ -76,4 +76,5 @@
  /home/esp8266/Share/GitHubProject/SmartHome/include/espressif/esp8266/uart_register.h \
  /home/esp8266/Share/GitHubProject/SmartHome/include/espressif/smartconfig.h \
  /home/esp8266/Share/GitHubProject/SmartHome/include/espressif/spi_flash.h \
- /home/esp8266/Share/GitHubProject/SmartHome/include/espressif/pwm.h
+ /home/esp8266/Share/GitHubProject/SmartHome/include/espressif/pwm.h \
+ include/app_main.h

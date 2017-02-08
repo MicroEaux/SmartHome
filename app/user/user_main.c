@@ -23,6 +23,7 @@
  */
 
 #include "esp_common.h"
+#include "app_main.h"
 
 /******************************************************************************
  * FunctionName : user_rf_cal_sector_set
@@ -76,6 +77,6 @@ uint32 user_rf_cal_sector_set(void)
 *******************************************************************************/
 void user_init(void)
 {
-    printf("SDK version:%s\n", system_get_sdk_version());
+	app_main();
 }
 

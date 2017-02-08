@@ -1,4 +1,5 @@
 #!/bin/bash
+
 boot=new
 app=1
 spi_speed=40
