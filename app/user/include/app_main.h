@@ -17,6 +17,17 @@
 #define __APP_MAIN_H
 
 /* Includes ------------------------------------------------------------------*/
+#include "esp_common.h"
+
+#include "freertos/FreeRTOS.h"
+#include "freertos/task.h"
+#include "freertos/queue.h"
+
+#include "uart.h"
+
+#include "app_debug.h"
+
+
 
 void app_main(void);
 

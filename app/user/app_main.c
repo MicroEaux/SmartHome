@@ -21,7 +21,7 @@
   */
 void app_main(void)
 {
-	printf("--------------------------------------------------\r\n");
-	printf("SDK version:%s\n", system_get_sdk_version());
+	AppDebug_Init(UART1, 115200);
+	
 }
 

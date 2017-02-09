@@ -77,4 +77,6 @@
  /home/esp8266/Share/GitHubProject/SmartHome/include/espressif/smartconfig.h \
  /home/esp8266/Share/GitHubProject/SmartHome/include/espressif/spi_flash.h \
  /home/esp8266/Share/GitHubProject/SmartHome/include/espressif/pwm.h \
- include/app_main.h
+ include/app_main.h \
+ /home/esp8266/Share/GitHubProject/SmartHome/include/freertos/queue.h \
+ include/uart.h include/app_debug.h include/app_main.h
